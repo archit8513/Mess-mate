@@ -1,0 +1,16 @@
+Date,Lunch/Dinner,users,"user count",Menu,Revenu
+2023-03-01,Lunch,"1,2,8",3,roti||sak||dal||bhat||6as,150
+2023-03-01,Dinner,"2,3,4,5",4,roti||sak||dal||bhat||6as,200
+2023-03-02,Lunch,"1,2,3",3,roti||sak||dal||bhat||6as,150
+2023-03-02,Dinner,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-03,Lunch,"1,2,3,4,5",5,roti||sak||dal||bhat||6as,250
+2023-03-03,Dinner,"1,2,3,4,7,8,9,10,11",9,roti||sak||dal||bhat||6as,450
+2023-03-04,Lunch,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-04,Dinner,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-05,Lunch,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-05,Dinner,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-06,Lunch,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-06,Dinner,"1,2,3,4",4,roti||sak||dal||bhat||6as,200
+2023-03-07,Lunch,"1,2,3,4,5,6,7,8,9,10,11",11,roti||sak||dal||bhat||6as,550
+2023-03-07,Dinner,"2,3,4,5,1,10000",6,roti||sak||dal||bhat||6as,300
+2023-04-01,Lunch,"1,10000,10002",3,Puri||||Rajma||||Dal||||Bhat||||Chhas,150
